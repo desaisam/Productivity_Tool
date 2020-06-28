@@ -1,2 +1,1 @@
-# learning_sep_2017
-Learning Python
+Simple productivity tool which blocks certain sites to improve your efficiancy. Built using Python
